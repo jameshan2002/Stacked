@@ -16,6 +16,7 @@ Capital One Customers want to know how they spend their money, sometimes you can
 
 ## What Stacked does
 - Demo gif (more pictures here)
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77949696/148633330-68b3a862-f385-43ef-9107-652f9c925a98.gif)
 
 
