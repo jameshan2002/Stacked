@@ -10,6 +10,23 @@ It provides users with flexibility regarding their wants and needs while still g
 
 Finally, you can promote healthier conversations around spending habits by exciting and enabling users to share their Stacked statistics with their family and friends.
 
+## How we build Stacked
+- Front End: React Native (For more flexibility to use on both iOS and Android.
+- Back End: Back4All -> Firebase -> JSON
+
+## Difficulties
+- Backend
+  - Had some trouble connecting backend platforms like Firebase and Back4App with our React Native app
+  - Created sample data that emulates what our backend would ideally look like
+- Frontend
+  - Difficulties with React Native setup on some computers, including proper installations/packages
+  - Leveraged team members’ skill sets to divide and conquer the tasks at hand
+
+
+## Future Features
+- Recommendations: Personalized recommendations for users to improve financial habits, tracking percentage of income spent rather than actual dollars.
+- Share Functionality: Our share could be implemented across a broader range of social media platforms.
+- Improved Design: Animations could be implemented in individual wrap slides to add pizzazz.
 
 ## Team
 - Front End
