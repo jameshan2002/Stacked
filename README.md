@@ -22,6 +22,7 @@ Capital One Customers want to know how they spend their money, sometimes you can
 <img src="https://user-images.githubusercontent.com/77949696/148632972-a0fb5b62-d7db-471d-901b-814f42a48cde.png" height="600">
 
 - Finally, you can promote healthier conversations around spending habits by exciting and enabling users to share their Stacked statistics with their family and friends.
+<img src="https://user-images.githubusercontent.com/77949696/148632965-2741dff0-4fbf-4480-8184-6a8b0af763d4.png" height="600">
 <img src="https://user-images.githubusercontent.com/77949696/148632984-ae74034f-33f7-4f7e-bae1-895b3f3d9470.png" height="600">
 
 ## How we build Stacked
