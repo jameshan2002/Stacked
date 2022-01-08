@@ -2,7 +2,7 @@ import React from 'react';
 import {StyleSheet, Text, View, TouchableOpacity} from 'react-native';
 import * as Animatable from 'react-native-animatable';
 
-const WrapData1 = ({route,navigation}) => {
+const WrapData1 = ({route, navigation}) => {
   const {user} = route.params;
   return (
     <View style={styles.container}>
@@ -101,12 +101,15 @@ const WrapData1 = ({route,navigation}) => {
             fontWeight: 'bold',
             color: '#000',
           }}>
-          (You saved ${user.old_metrics.needs.rent - user.new_metrics.needs.rent} on rent! 🏠)
+          (You saved $
+          {user.old_metrics.needs.rent - user.new_metrics.needs.rent} on rent!
+          🏠)
         </Animatable.Text>
       </Animatable.View>
 
       <View style={styles.button}>
-        <TouchableOpacity onPress={() => navigation.navigate('WrapData2',{user:user})}>
+        <TouchableOpacity
+          onPress={() => navigation.navigate('WrapData2', {user: user})}>
           <Animatable.Text
             animation="fadeInUp"
             easing="ease-out-cubic"
