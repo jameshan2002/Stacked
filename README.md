@@ -27,12 +27,13 @@ Finally, you can promote healthier conversations around spending habits by excit
 - Back End: Back4All -> Firebase -> JSON
 
 ## Difficulties
-- Backend
-  - Had some trouble connecting backend platforms like Firebase and Back4App with our React Native app
-  - Created sample data that emulates what our backend would ideally look like
 - Frontend
   - Difficulties with React Native setup on some computers, including proper installations/packages
   - Leveraged team members’ skill sets to divide and conquer the tasks at hand
+- Backend
+  - Had some trouble connecting backend platforms like Firebase and Back4App with our React Native app
+  - Created sample data that emulates what our backend would ideally look like
+
 
 
 ## Future Features
