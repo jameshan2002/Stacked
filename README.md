@@ -4,7 +4,6 @@
   - https://github.com/Lo-pez
   - Alex Chen
   - Bryan Xi
-  
 - Back End
   - Jacob Jun: https://github.com/notjacobjun
   - Sebastian Rodriguez: https://github.com/ace7806
