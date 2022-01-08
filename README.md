@@ -16,12 +16,13 @@ Capital One Customers want to know how they spend their money, sometimes you can
 
 ## What Stacked does
 After you sign up at Capital One, you can log into your account to see your monthly summary of your transactions.
-<img src="https://user-images.githubusercontent.com/77949696/148632965-2741dff0-4fbf-4480-8184-6a8b0af763d4.png" height="300">
+<img src="https://user-images.githubusercontent.com/77949696/148632965-2741dff0-4fbf-4480-8184-6a8b0af763d4.png" height="600">
+
 It provides users with flexibility regarding their wants and needs while still giving nonpunitive recommendations on how to improve budgeting habits.
-![screen6](https://user-images.githubusercontent.com/77949696/148632972-a0fb5b62-d7db-471d-901b-814f42a48cde.png)
+<img src="https://user-images.githubusercontent.com/77949696/148632972-a0fb5b62-d7db-471d-901b-814f42a48cde.png" height="600">
 
 Finally, you can promote healthier conversations around spending habits by exciting and enabling users to share their Stacked statistics with their family and friends.
-![screen8](https://user-images.githubusercontent.com/77949696/148632984-ae74034f-33f7-4f7e-bae1-895b3f3d9470.png)
+<img src="https://user-images.githubusercontent.com/77949696/148632984-ae74034f-33f7-4f7e-bae1-895b3f3d9470.png" height="600">
 
 ## How we build Stacked
 - Front End: React Native (For more flexibility to use on both iOS and Android.
