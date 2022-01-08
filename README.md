@@ -1,4 +1,4 @@
-# Team
+# Development Team
 - Front End
   - James Han (Me)
   - https://github.com/Lo-pez
