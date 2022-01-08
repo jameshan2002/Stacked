@@ -1,3 +1,15 @@
+# Team
+- Front End
+  - James Han (Me)
+  - https://github.com/Lo-pez
+  - Alex Chen
+  - Bryan Xi
+  
+- Back End
+  - Jacob Jun: https://github.com/notjacobjun
+  - Sebastian Rodriguez: https://github.com/ace7806
+
+
 ## Inspiration
 Capital One Customers want to know how they spend their money, sometimes you can blow away your budget without even knowing it.
 
@@ -27,14 +39,3 @@ Finally, you can promote healthier conversations around spending habits by excit
 - Recommendations: Personalized recommendations for users to improve financial habits, tracking percentage of income spent rather than actual dollars.
 - Share Functionality: Our share could be implemented across a broader range of social media platforms.
 - Improved Design: Animations could be implemented in individual wrap slides to add pizzazz.
-
-## Team
-- Front End
-  - James Han (Me)
-  - https://github.com/Lo-pez
-  - Alex Chen
-  - Bryan Xi
-  
-- Back End
-  - Jacob Jun: https://github.com/notjacobjun
-  - Sebastian Rodriguez: https://github.com/ace7806
