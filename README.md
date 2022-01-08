@@ -15,7 +15,7 @@ Capital One Customers want to know how they spend their money, sometimes you can
 **Capital One Stacked** provides a monthly summary of each customer’s spending habits, categorized by needs/wants and overall trends in your transactions. This empowers users to be more cognizant of their spending habits, visually helps users budget more healthily, promotes conversations on better spending habits, and encourages users to share their milestones with others.
 
 ## What Stacked does
-- Demo gif [(More Pictures Here)](https://flic.kr/s/aHBqjzxQTw)
+- Demo GIF : [(More Pictures Here!)](https://flic.kr/s/aHBqjzxQTw)
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/77949696/148633367-eb41264d-efd8-4a77-82d4-83f17295f7ce.gif)
 
