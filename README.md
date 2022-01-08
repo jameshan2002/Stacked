@@ -17,7 +17,8 @@ Capital One Customers want to know how they spend their money, sometimes you can
 ## What Stacked does
 - Demo gif (more pictures here)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/77949696/148633330-68b3a862-f385-43ef-9107-652f9c925a98.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/77949696/148633367-eb41264d-efd8-4a77-82d4-83f17295f7ce.gif)
+
 
 
 - After you sign up at Capital One, you can log into your account to see your monthly summary of your transactions.
